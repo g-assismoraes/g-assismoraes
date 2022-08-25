@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=g-assismoraes)
 ### Olá, mundo! : )
 
 <div align="center">
