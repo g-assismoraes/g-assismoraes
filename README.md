@@ -2,8 +2,14 @@
 
 <div align="center">
   <a href="https://github.com/g-assismoraes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=g-assismoraes&show_icons=true&theme=nord&count_private=true&hide_rank=true&hide=stars,contribs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-assismoraes&layout=compact&langs_count=6&hide=CSS,html&theme=nord"/>
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=g-assismoraes&theme=nord"/>
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/g-assismoraes">
+  <img height="217em" src="https://github-readme-stats.vercel.app/api?username=g-assismoraes&show_icons=true&theme=nord&count_private=true&hide_rank=true&hide=stars,contribs"/>
+  <img height="217em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-assismoraes&layout=compact&langs_count=6&hide=CSS,html&theme=nord"/>
 </div>
   
   ##
