@@ -12,7 +12,7 @@
   <img align="center" alt="c" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="PyTorch" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="github" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg">
   <img align="center" alt="vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Hugging Face" height="50" width="60" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg">
