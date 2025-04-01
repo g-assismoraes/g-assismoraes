@@ -15,10 +15,9 @@
   <img align="center" alt="github" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg">
   <img align="center" alt="vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Hugging Face" height="50" width="60" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg">
-  <img align="center" alt="Colab" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
   <img align="center" alt="Vertex" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Vertex_AI_Logo.svg">
-  
+  <img align="center" alt="Colab" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
+  <img align="center" alt="Hugging Face" height="50" width="60" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg">
 </div>
 
 ##
